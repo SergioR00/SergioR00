@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sergio <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I can help you as a Back-End, Front-End and Python developer</h3>
+<h1 align="center">Hi, I'm Sergio <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+                                                                                 
+[![image](https://raw.githubusercontent.com/SergioR00/SergioR00/main/banner%20git.png)]()
 
 - 🔭 I’m currently working on my **Front-End skills**
 
@@ -51,6 +52,6 @@
 
 ------
 
-[BrantLauro](https://github.com/SergioR00)
+[Sergio Rubio](https://github.com/SergioR00)
 
 Last Edited on: 14/08/2024
