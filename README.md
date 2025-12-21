@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sergio <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 About Me:
-- 🔭 I used to work mostly with Java/Kotlin or C++. But I also have experience working with data using Python.
+- 🔭 I usually work mostly with Java/Kotlin or C++. But I also have experience working with data using Python.
 
-- 🌱 I like including the DevOps culture and have a strong interest in Cloud adoption.
+- 🌱 I like implementing the DevOps culture and have a strong interest in Cloud adoption.
 
 - 📫 How to reach me: **sergio.rubio.dis@gmail.com**
 
