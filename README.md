@@ -1,16 +1,13 @@
 <h1 align="center">Hi, I'm Sergio <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-                                                                                 
-[![image](https://raw.githubusercontent.com/SergioR00/SergioR00/main/banner%20git.png)]()
 
-- 🔭 I’m currently working on my **Front-End skills**
+About Me:
+- 🔭 I used to work mostly with Java/Kotlin or C++. But I also have experience working with data using Python.
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I like including the DevOps culture and have a strong interest in Cloud adoption.
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 📫 How to reach me: **sergio.rubio.dis@gmail.com**
 
-- 📫 How to reach me: **sergio.rubio.roller@gmail.com**
-
-- ⚡ What I like to do: **I am also a passionate about profesional inline skater ...and coding of course**
+- ⚡ What I like to do: **I am also a passionate about competitive inline skating ...and coding of course**
 
 
 <h1></h1>
@@ -19,28 +16,34 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/python-1DA1F2?style=for-the-badge&logo=python&logoColor=white)]()
 [![image](https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=heart&logoColor=white)]()
-[![image](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![image](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![image](https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=C++&logoColor=white)]()
+[![image](https://img.shields.io/badge/python-1DA1F2?style=for-the-badge&logo=python&logoColor=white)]()
 [![image](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![image](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)]()
 
   
 </div>
 
 <p align="center"> 
+
   <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://blogs.ashrithgn.com/content/images/2020/07/spring-boot-logo-1-1.png" alt="spring-boot" width="80" height="80"/> 
+  </a> 
+  <a href="" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/b567aeeb-ca20-41e2-9f5a-41223cf80789" alt="redis" width="40" height="40"/>
+  </a> 
+  <a href="" target="_blank"> 
+    <img src="https://www.ovhcloud.com/sites/default/files/styles/desktop_full_width/public/2024-01/kafka.png" alt="Kafka" width=80" height="80"/> 
+  </a>
+    <a href="" target="_blank"> 
+    <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png" alt="docker" width=50" height="50"/> 
+  </a>
+    <a href="" target="_blank"> 
+    <img src="https://www.unimedia.tech/wp-content/uploads/2023/10/1200px-AmazonWebservices_Logo.svg_.png" alt="AWS" width=80" height="80"/> 
   </a>
   <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node-js" width="40" height="40"/> 
-  </a> 
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="40" height="50"/> 
+  </a>
   <a href="" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
